@@ -1,0 +1,17 @@
+streamlit
+openai
+langchain
+faiss-cpu
+PyMuPDF
+python-docx
+tiktoken
+sentence-transformers
+chromadb
+pandas
+numpy
+llama-cpp-python
+python-dotenv
+
+requests
+
+pip install them first then run the project
